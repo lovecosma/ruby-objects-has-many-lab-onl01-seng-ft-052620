@@ -22,6 +22,7 @@ end
 
 def author_name
 return @author.name if @author.name
+return nil if !@author_name
 end
 
 end
