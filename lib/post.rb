@@ -3,5 +3,8 @@ class Post
   def initialize(title)
     self.title = title
   end
+  def author
+  end
+  
 
 end
