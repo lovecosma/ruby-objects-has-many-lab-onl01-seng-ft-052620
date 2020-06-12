@@ -8,9 +8,7 @@ class Post
 
   def author
   @author
-  end
-
-
+  endx
 
   def author=(author)
   @author = author
