@@ -9,7 +9,7 @@ class Post
   end
 
   def author
-
+  @author
 
 
   end
@@ -20,7 +20,7 @@ class Post
 
 
 
-  end 
+  end
 
 
 end
