@@ -5,6 +5,8 @@ def initialize(name)
 self.name = name
 end
 
+def posts
+end 
 
 
 end
