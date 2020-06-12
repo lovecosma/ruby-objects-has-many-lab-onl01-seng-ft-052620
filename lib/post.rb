@@ -16,8 +16,8 @@ class Post
   @author.posts << self
   end
 
-def self
-  
+def self.all
+
 end
 
 end
