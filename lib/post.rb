@@ -4,7 +4,8 @@ class Post
     self.title = title
   end
   def author
+    
   end
-  
+
 
 end
