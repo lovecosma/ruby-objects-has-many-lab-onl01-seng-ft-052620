@@ -12,6 +12,7 @@ class Post
 
   def author=(author)
   @author = author
+  @author.posts << self
   end
 
 
