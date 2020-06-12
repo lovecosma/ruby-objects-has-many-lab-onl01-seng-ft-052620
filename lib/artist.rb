@@ -21,7 +21,7 @@ end
  end
 
  def self.song_count
-
+@@song.length
  end
 
  end
