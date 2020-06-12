@@ -21,11 +21,7 @@ def self.all
 end
 
 def author_name
- if @author.name
-  @author.name
-else
-  return nil
-end
+return @author.name if @author.name
 end
 
 end
