@@ -9,4 +9,7 @@ def add_post(post)
 post.author = self
 end
 
+def post_by_title
+end
+
 end
