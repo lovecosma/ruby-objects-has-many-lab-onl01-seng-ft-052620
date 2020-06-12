@@ -6,7 +6,7 @@ self.name = name
 self.posts = []
 end
 def add_post(post)
-
+post.author = 
 end
 
 end
