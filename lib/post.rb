@@ -6,6 +6,7 @@ class Post
   def author
     
   end
+  def author=(author)
 
 
 end
