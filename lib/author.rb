@@ -15,7 +15,7 @@ new_post.author = self
 end
 
 def self.post_count
-@@posts.length
+@@posts.length+1
 end
 
 
