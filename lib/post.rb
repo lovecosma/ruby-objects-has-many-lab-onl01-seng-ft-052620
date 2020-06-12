@@ -4,7 +4,7 @@ class Post
     self.title = title
   end
   def author
-    
+
   end
   def author=(author)
 
