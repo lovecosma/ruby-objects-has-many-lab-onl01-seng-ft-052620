@@ -10,6 +10,7 @@ post.author = self
 end
 
 def post_by_title
+  
 end
 
 end
