@@ -21,7 +21,7 @@ def self.all
 end
 
 def author_name
-return @author.name
+@author.name
 end
 
 end
